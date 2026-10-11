@@ -1,6 +1,6 @@
 module github.com/kumy/https-echo-server
 
-go 1.25.0
+go 1.26.0
 
 require (
 	github.com/coder/websocket v1.8.15
@@ -9,7 +9,7 @@ require (
 	github.com/spf13/viper v1.21.0
 	go.uber.org/zap v1.28.0
 	golang.org/x/net v0.43.0
-	golang.org/x/sync v0.22.0
+	golang.org/x/sync v0.24.0
 )
 
 require (
